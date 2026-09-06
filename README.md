@@ -6,3 +6,5 @@ Simulating a merge conflict between local and remote
 
 
 Testing something else
+
+Testing git stash and git stash pop
